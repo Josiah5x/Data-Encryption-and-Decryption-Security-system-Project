@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="image">
+    <file>icons/unlock_32x32.png</file>
+    <file>icons/add_32x32.png</file>
+    <file>icons/wrench_32x32.png</file>
+    <file>icons/check_mark_32x32.png</file>
+    <file>icons/comment_32x32.png</file>
+    <file>icons/folder_32x32.png</file>
+    <file>icons/key_2_32x32.png</file>
+    <file>icons/key_32x32.png</file>
+    <file>icons/lens_32x32.png</file>
+    <file>icons/lock_32x32.png</file>
+    <file>icons/notebook_32x32.png</file>
+    <file>icons/round_ok_32x32.png</file>
+    <file>icons/stop_32x32.png</file>
+    <file>icons/text_32x32.png</file>
+    <file>icons/trash_32x32.png</file>
+    <file>icons/warning_32x32.png</file>
+    <file>371-3715555_nasarawa-state-university-keffi-nsuk.png</file>
+    <file>PngItem_2666090.png</file>
+    <file>encrypted.png</file>
+    <file>unlock.png</file>
+    <file>control-center.ico</file>
+    <file>org.libreoffice.LibreOffice-writer.ico</file>
+    <file>user.ico</file>
+    <file>agenda.ico</file>
+    <file>folder.ico</file>
+    <file>folder-documents.ico</file>
+    <file>lock.ico</file>
+    <file>key.png</file>
+    <file>img104.jpg</file>
+    <file>images/key_closed.png</file>
+    <file>images/keys.png</file>
+    <file>images/keys_open.png</file>
+    <file>images/key.png</file>
+  </qresource>
+</RCC>
